@@ -1,5 +1,8 @@
 _repo: The-Story-of-the-Amulet_837
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nesbit, E. (Edith)
@@ -19,6 +22,8 @@ description: "The Story of the Amulet is a novel for children, written in 1906 b
   \ advisory in relation to the children's other discovery, the Amulet, thus following\
   \ a formula successfully established in The Phoenix and the Carpet.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/837#The-Story-of-the-Amulet
 gutenberg_bookshelf:
 - Children's Literature
 - Children's Fiction
